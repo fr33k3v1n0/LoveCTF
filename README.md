@@ -6,4 +6,4 @@ LoveCTF 2024 writeup for W3hunters team
 
 
 # Team 
-![](./team.png)
+![](./images/team.png)

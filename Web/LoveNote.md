@@ -2,12 +2,17 @@
 - 1: let make some test:
      every message we submit result to this :
 > I don't understand letters darling.What do you mean ....
- i submit this: 5+5  and the result is:  10
- i thing directly to eval :grin: 
+
+i submit this: 5+5  and the result is:  10
+i thing directly to eval or SSTI :grin: 
+
 ok let  submit this malicious input: ;
+
 Result:
+
 > Parse error: syntax error, unexpected token ";" in /app/index.php(74) : eval()'d code on line 1
-so we know that  the backend use our input with eval function.
+so we know that  the backend use our input with eval function.OB3WWYJIFIYG6TRUOIYDSW2WMNFX2SBPHJVTKNL4JA6WOXTBHFMVMZZXMEYHGXSCFASCKKBWJ4ZFAVTEIE======
+
 - 2 know we need to execute code trough  our input.
        for this, we can use burp repeater to make many test.
        after make some test, i understand that the input is filter.

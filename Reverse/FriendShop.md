@@ -80,7 +80,7 @@ string.
 we need to understant what encryptMotDePass function do.
 after little analyze, i understand that it is a simple xor .
 
-# i write this program to get the xor key. i'm a lazy boy
+# i write this program to get the xor key. i'm a lazy boy 😄
 
 ```C
 #include<stdlib.h>
@@ -108,7 +108,7 @@ cryptmotdepass();
 
 this program say that the xor key is: 16. true
 
-# now we have the xor key, what we need is to get the first arument of
+# now we have the xor key, what we need is to get the first argument of
 verifyMotDePass
 pwngdb, breakpoint on strcmp, examine the value of $rdi and everything is ok 
 

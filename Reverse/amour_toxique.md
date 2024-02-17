@@ -106,7 +106,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> bytes.fromhex(hexstring)
 b'LoveCTF{lfake_flflag}'
 ```
-ahh fake flag.
+ahh fake flag.😲
 # ok why not dig more by debugging the program 
 # gdb-pwndbg is my Friend 
 
@@ -182,7 +182,7 @@ TG92ZUNURntsM3RfdXNxxxdddfdzFdsuffdXfdsf3sddpdGhfcGFzczEwMG5ufQ
 LoveCTF{l3t_usq�]u�s�.}�W}���]�ѡ}����������base64: invalid input
 
 ```
-what? but this look like a flag !!!. 
+what? but this look like a flag !!!. 😰
 #  don't forget the description of this chall told us thas the scret message is  scrambed whit something.  the encoded chaine is corromptud by adding some char. we need to repair it
 
 #o we need to remove some char from this base64 encoded chaine.
@@ -203,5 +203,5 @@ i dig more and finaly, i know that the valide string is: TG92ZUNURntsM3RfdXNfdzF
 LoveCTF{l3t_us_w1n_with_pass100nn}
 ```
 
-# So we get the flag
+# So we get the flag 🏁
 

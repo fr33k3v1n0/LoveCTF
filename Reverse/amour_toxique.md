@@ -81,7 +81,7 @@ Ilsb@QCxH
 ic^hb\ciH
 The flag is: %s
 ```
-in this ouput, we have some base64 encoded string and some hexadecimal string.
+in this output, we have some base64 encoded string and some hexadecimal string.
 let analyze the hexa string
 ```bash
 $ python3

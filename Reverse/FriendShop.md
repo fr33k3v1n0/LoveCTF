@@ -85,7 +85,6 @@ after little analyze, i understand that it is a simple xor .
 ```C
 #include<stdlib.h>
 #include<stdio.h>
-#include<string.h>
 
 void cryptmotdepass(void)
 {

@@ -7,7 +7,7 @@ FriendShipGoal: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamic
 ```
 when i use strings, i don't get more things.
 
-i exec the prog and see that it is a simplre crackme
+i exec the prog and see that it is a simple crackme
 
 # reverse the binary. GHIDRA, PWNDBG are my friends
 

@@ -1,7 +1,7 @@
 # chall Name: love game
 
 we are given this python script
- i thing a made some modification, to simplify  the script 
+ i think a made some modification, to simplify  the script 
 ```python
 flag = 'REDACTED'
 
